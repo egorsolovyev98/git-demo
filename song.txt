@@ -2,7 +2,3 @@ hello hello
 i am egor
 now i'm using git
 :)
-
-new cuplet
-
-new cuplet
